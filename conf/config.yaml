@@ -1,9 +1,9 @@
 
 # task_id: "646f419d9412e787a370d614" # Task ID that shows FedOps Website"
-task_id: "656926c2b942e2e83ec6c3e1" # Input your Task Name that shows FedOps Website"
-num_epochs: 2 # number of local epochs
+task_id: "6569b5f9b942e2e83ec6c5cf" # Input your Task Name that shows FedOps Website"
+num_epochs: 1 # number of local epochs
 batch_size: 128
-num_rounds: 3
+num_rounds: 2
 clients_per_round: 1
 learning_rate: 0.001
 
