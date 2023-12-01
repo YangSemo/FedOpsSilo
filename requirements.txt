@@ -1,5 +1,5 @@
 # server requirements
-fedops>=1.1.6
+fedops>=1.1.8
 torch
 torchvision
 scikit-learn
