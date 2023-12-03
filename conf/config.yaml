@@ -5,8 +5,8 @@ docker: true
 task_id: "testx" # Input your Task Name that shows FedOps Website"
 num_epochs: 1 # number of local epochs
 batch_size: 128
-num_rounds: 2
-clients_per_round: 5 # Number of clients participating in the round
+num_rounds: 5
+clients_per_round: 1 # Number of clients participating in the round
 learning_rate: 0.001
 
 
